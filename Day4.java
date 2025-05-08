@@ -45,13 +45,13 @@ public class Day4{
 //        float miles= km *0.621371f;
 //        System.out.println("the values of kilometer in miles is :"+miles+" miles");
         //input value is integere or not
-        Scanner sc = new Scanner(System.in);
-        System.out.println("enter the value :");
-        int c=sc.nextInt();
-    if(c=NextInt())
-            System.out.println(c+" Is An Integer");
-    else
-        System.out.println(c+" Is An Not Integer");
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("enter the value :");
+//        int c=sc.nextInt();
+//    if(true)
+//            System.out.println(c+" Is An Integer");
+//    else
+//        System.out.println(c+" Is An Not Integer");
 
     }
 }
